@@ -12,11 +12,9 @@ Check out [FRONTEND LIVE DEMO](https://frontend-quickstart-a.herokuapp.com/) her
 
 Check out [API LIVE DEMO](https://backend-quickstart-a.herokuapp.com/posts/) here!!
 
-##screenshort.
+##screenshort. <img width="1428" alt="Screenshot 2022-04-08 at 10 30 48 AM" src="https://user-images.githubusercontent.com/99712115/162368639-259f2900-f813-42a3-9227-a6340b0ffd2a.png">
 
-## Tech used
-
-```<img width="1428" alt="Screenshot 2022-04-08 at 10 30 48 AM" src="https://user-images.githubusercontent.com/99712115/162368639-259f2900-f813-42a3-9227-a6340b0ffd2a.png">
+## Tech used 
 
 * Frontend : React & Redux
 * Backend : Django
